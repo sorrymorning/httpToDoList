@@ -50,8 +50,7 @@
               "RelativeToolTip": "Lab6.Http.Application\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:38:54.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:38:54.042Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Lab6.Http.Client\\Program.cs",
               "ToolTip": "C:\\Users\\amirk\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Client\\Program.cs",
               "RelativeToolTip": "Lab6.Http.Client\\Program.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:38:10.771Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Lab6.Http.Client\\UserApiClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:37:56.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:37:56.057Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Lab6.Http.Application\\Controller\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:37:39.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:37:39.674Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Lab6.Http.Application\\Storage\\UserStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:37:16.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:37:16.471Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Lab6.Http.Common\\IUserApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:36:22.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:36:22.089Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Lab6.Http.Common\\User.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:35:40.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:35:40.025Z"
             }
           ]
         }
